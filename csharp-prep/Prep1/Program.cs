@@ -6,9 +6,9 @@ class Program
     {
         Console.WriteLine("Hello Prep1 World!");
         Console.Write("What is your first name? ");
-        string firstname =Console.Readline();
+        string firstname = Console.ReadLine();
         Console.Write("What is your last name? ");
-        string lastname = Console.Readline();
+        string lastname = Console.ReadLine();
         Console.WriteLine($"Your name is {lastname} ,{firstname} {lastname} .");
     }
 }
