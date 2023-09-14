@@ -37,7 +37,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Please try again next term ");
+            Console.WriteLine("Please try again next term. ");
         }
 
     }
